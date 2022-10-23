@@ -1,5 +1,3 @@
-from sre_parse import CATEGORIES
-from tarfile import ENCODING
 import pandas as pd
 import io
 
