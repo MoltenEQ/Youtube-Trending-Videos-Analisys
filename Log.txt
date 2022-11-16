@@ -1,0 +1,15 @@
+2022.10.22.  
+
+Elkezdtük írni a specifikáciüt
+Sok időbe telt a csv fájlok beolvasása.
+A KR,JP,RU és MX régiók fájljaival sokat kellett foglalkozni
+
+2022.11.09
+
+Kijavítottunk pár apróbb dolgot a specializáción
+
+2022.11.16
+
+Ádám rengeteget foglalkozott az adatok beolvasásával.
+A koreai régió fáljában eszméletlen mennyiségű hiba volt. Órákat töltött a javítással.
+Sajnos az oroszokkal is meg kellett küzdeni.

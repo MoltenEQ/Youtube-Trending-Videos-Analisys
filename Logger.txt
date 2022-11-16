@@ -1,8 +1,0 @@
-2022.10.22.  
-Elkezdt írni a spec-et
-Sok időt töltött a csv fájlok beolvasásával.
-A "JPviedo.csv" és "JPviedo.csv" fájlnak az beolvasásával később foglalkozik
-on_bad_words = skip mondatot használt az olvasás során
-Megoldott a beolvasási problémát
-
-2022.10.23.
