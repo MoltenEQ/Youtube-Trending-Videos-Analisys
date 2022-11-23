@@ -1,8 +1,6 @@
 import pandas as pd
+import bamboolib as bam
 import json
-import plotly
-import io
-import math
 
 pd.set_option('display.float_format', lambda x: '%.2f' % x) # Set numeric value print format
 pd.options.plotting.backend = "plotly" # Use plotly to generate visualizations

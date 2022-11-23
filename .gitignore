@@ -3,3 +3,5 @@
 *.csv
 ~$f-spec.docx
 *.tmp
+run_jupiter.bat
+.ipynb_checkpoints/
