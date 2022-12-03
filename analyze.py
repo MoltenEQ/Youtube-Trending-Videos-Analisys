@@ -22,7 +22,7 @@ pd.options.plotting.backend = "plotly" # Use plotly to generate visualizations
 # 'video_error_or_removed':bool,
 # 'description':str,
 # ]
-REGIONS = ["CA","DE","FR","GB","IN","JP","KR","RU","MX","US"] # TODO fix Korea if we can
+REGIONS = ["CA","DE","FR","GB","IN","JP","KR","RU","MX","US"]
 
 # REGIONS = ["CA"] # Korea only
 
